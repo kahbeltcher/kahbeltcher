@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kahbeltcher
-- 👀 I’m interested in a new job
-- 🌱 I’m currently learning ("HTML5 + CSS3)
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me kahbeltcher2018@gmail.com
+### Olá, Eu sou a Karen. 👋
+ - 👀 Procuro uma vaga para desenvolvimento Web.
+ - 🌱 Atualmente estudando ~ SQL ,Node ,React.
+
 
 <!---
 kahbeltcher/kahbeltcher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
