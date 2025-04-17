@@ -1,6 +1,6 @@
 ### Olá, Eu sou a Karen. 👋
  - 👀 Procuro uma vaga para desenvolvimento Web.
- - 🌱 Atualmente estudando ~ SQL ,Node ,React.
+ - 🌱 Atualmente estudando ~ SQL, Node, React e API
 
 
 <!---
